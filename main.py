@@ -125,3 +125,4 @@ for i in range(num_alarms):
 if any_alarm_waiting:
     time.sleep(2)
     st.rerun()
+
